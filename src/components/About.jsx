@@ -127,7 +127,7 @@ const About = () => {
             <motion.li className="flex items-start" variants={fadeIn("up", "spring", 0.1, 0.75)}>
               <span className="mr-4 text-2xl flex-shrink-0"></span>
               <span>
-                I&apos;m a Full Stack Developer With Hansds On Experience On Web Technologies
+                I&apos;m a Full Stack Developer With Hands On Experience On Web Technologies
               </span>
             </motion.li>
             <motion.li className="flex items-start" variants={fadeIn("up", "spring", 0.2, 0.75)}>
