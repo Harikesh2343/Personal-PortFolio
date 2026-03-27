@@ -94,7 +94,6 @@ const Navbar = () => {
             <span 
               className='block' 
               style={{
-                fontFamily: "'Dancing Script', cursive",
                 fontSize: "26px",
                 background: "linear-gradient(90deg, #915EFF, #00BFFF)",
                 WebkitBackgroundClip: "text",

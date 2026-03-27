@@ -128,7 +128,7 @@ const education = [
     iconBg: "#fff",
     date: "2020-2023",
     points: [
-      "Ontario Scholar",
+      
       "10th Percentage: 96%",
       "12th Percentage: 78%",
     ],
@@ -326,9 +326,9 @@ const extracurricular = [
     type: "Professional Certificate",
     icon: microsoft,
     iconBg: "#000000",
-    date: "Feb 2026",
+    date: "August 2025",
     points: [
-      "C#, .NET 10, Blazor WebAssembly, ASP.NET Core Web API, SQL Server, JWT Auth, RBAC, CI/CD, Entity Framework Core",
+      "Self-paced Data Structures and Algorithms (DSA) learning allows individuals to study at their own speed without strict deadlines.It helps build strong problem-solving skills through consistent practice and concept clarity.Learners can focus more on weak areas and revise topics as needed for better understanding.This approach is ideal for preparing for coding interviews and improving logical thinking efficiently.",
     ],
     credential: "https://drive.google.com/file/d/1udf2KTox_mgp65iGVREbbWMTbdgDZ7k7/view?usp=drive_link",
   },
@@ -337,20 +337,20 @@ const extracurricular = [
   type: "Professional Certificate",
   icon: mongodb,
   iconBg: "#000000",
-  date: "Issued: Oct 13, 2025 - Expires: Oct 13, 2027",
+  date: "FROM: June 13, 2025 - AUG, 2025",
   points: [
-    "Prompt Engineering, Copilot Chat Architecture, Policy Enforcement, Enterprise AI Integration, Secure Development Workflows"
+    "Advance Data Structures AND Algorithm It includes topics like dynamic programming, graphs, segment trees, and advanced searching/sorting methods."
   ],
   credential: "https://drive.google.com/file/d/1Anzb8OibHYRusn6igkeOFDECOMq0fFTA/view?usp=sharing",
   },
   
   {
-    title: "Github Foundations",
+    title: "Computer Communications",
     type: "Professional Certificate",
     icon: github,
     iconBg: "#000000",
-    date: "Issued: Sep 2024 - Expires: Sep 2027",
-    points: ["Version Control, Git, Actions, CI/CD, Repository Management, SAP Workflow"],
+    date: "",
+    points: ["Specialization, learners developed and honed essential skills infundamental computer networking concepts and principles, apply thenetworking theory and design principles,"],
     credential: "https://drive.google.com/file/d/19c8Lb-mSCz6yEEYxY548L-2cRjT_7mUU/view?usp=sharing",
   },
  
